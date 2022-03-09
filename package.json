@@ -11,7 +11,11 @@
     "url": "git+https://github.com/benpatersonx/airport-info.git"
   },
   "keywords": [
-    "flight"
+    "airport information",
+    "airport",
+    "icao info",
+    "flight tracker",
+    "airport search"
   ],
   "author": "benpatersonx",
   "license": "ISC",
