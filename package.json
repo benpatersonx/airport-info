@@ -1,0 +1,25 @@
+{
+  "name": "flight-info",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benpatersonx/flight-info.git"
+  },
+  "keywords": [
+    "flight"
+  ],
+  "author": "benpatersonx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benpatersonx/flight-info/issues"
+  },
+  "homepage": "https://github.com/benpatersonx/flight-info#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
