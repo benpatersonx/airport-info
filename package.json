@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/benpatersonx/flight-info.git"
+    "url": "git+https://github.com/benpatersonx/airport-info.git"
   },
   "keywords": [
     "flight"
@@ -16,9 +16,9 @@
   "author": "benpatersonx",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/benpatersonx/flight-info/issues"
+    "url": "https://github.com/benpatersonx/airport-info/issues"
   },
-  "homepage": "https://github.com/benpatersonx/flight-info#readme",
+  "homepage": "https://github.com/benpatersonx/airport-info#readme",
   "dependencies": {
     "node-fetch": "^2.6.7"
   }
