@@ -1,4 +1,4 @@
-const getFlightInfo = async() => {
+const getAirportInfo = async() => {
     const fetch = require("node-fetch")
 
     

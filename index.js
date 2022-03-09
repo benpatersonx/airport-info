@@ -1,1 +1,1 @@
-exports.getFlightInfo = require("./flight-info.js")
+exports.getAirportInfo = require("./airport-info.js")
