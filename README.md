@@ -1,5 +1,5 @@
 # Airport Information
-Retrieve detailed information on any airport of your choice, from the country, city, timezone, icao and coordinates.  The query can be specified with an ICAO or generic airport name.
+Retrieve detailed information on any airport of your choice, from the country, city, timezone, ICAO and coordinates.  The query can be specified with an ICAO or generic airport name.
 
 ## Example
 ```js
